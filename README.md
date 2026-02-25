@@ -49,12 +49,11 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/4n1me5h?style=for-the-badge&color=0A66C2" />
-  <img src="https://img.shields.io/github/stars/4n1me5h?affiliations=OWNER&style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/github/commit-activity/m/4n1me5h?style=for-the-badge&color=green" />
+  <img src="https://img.shields.io/github/repos/4n1me5h?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/4n1me5h?style=for-the-badge" />
 </p>
 
 ---
