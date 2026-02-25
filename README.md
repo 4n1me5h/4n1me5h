@@ -49,11 +49,21 @@
 
 ---
 
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+</p>
+
+## 💻 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=4n1me5h&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
