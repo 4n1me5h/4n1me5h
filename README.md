@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Animesh Das</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN | Python | PHP | Real-Time Apps</h3>
+<h3 align="center">🚀 Full-Stack Developer | MERN | JavaScript | Python | PHP | Real-Time Apps</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
@@ -10,8 +10,8 @@
 ## 👨‍💻 About Me
 
 - 💻 Full-Stack Developer passionate about building impactful web apps  
-- ⚙️ Hands-on with **MERN, Python, C, PHP, SQL**  
-- 🎨 Love crafting clean UIs with **Tailwind CSS**  
+- ⚙️ Hands-on with **JavaScript, MERN, Python, C, PHP, SQL**  
+- 🎨 Love crafting clean UIs with **React & Tailwind CSS**  
 - 🔌 Building real-time apps using **Socket.IO**  
 - 🚀 Focused on performance, UX & scalable backend systems  
 - 🌱 Always learning & exploring new technologies  
@@ -49,19 +49,23 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=4n1me5h&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+</p>
+
+---
+
 ## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=4n1me5h&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </p>
 
-## 🚀 Contribution Graph
+---
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/409BAF/4n1me5h&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=4n1me5h&theme=tokyonight&hide_border=true&background=0D1117" />
@@ -84,5 +88,7 @@
 ---
 
 <p align="center">
-  ⚡ “Building the web smarter, faster, and more human.”
+  ⚡ “I don’t destroy worlds — I build them with code.  
+  Turning ideas into scalable systems and challenges into solutions.
+  Building the web smarter, faster, user friendly, and more human.”
 </p>
