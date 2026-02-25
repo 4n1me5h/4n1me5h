@@ -12,9 +12,9 @@
 - 💻 Full-Stack Developer passionate about building impactful web apps  
 - ⚙️ Hands-on with **JavaScript, MERN, Python, C, PHP, SQL**  
 - 🎨 Love crafting clean UIs with **React & Tailwind CSS**  
-- 🔌 Building real-time apps using **Socket.IO**  
+- 🕝 Building real-time apps using **Socket.IO**  
 - 🚀 Focused on performance, UX & scalable backend systems  
-- 🌱 Always learning & exploring new technologies  
+- 💡 Always learning & exploring new technologies  
 
 ---
 
@@ -45,7 +45,7 @@
 
 ---
 
-## ❤️💙 What I Love Building
+## 🎯 What I Love Building
 
 ✨ Real-Time Applications  
 ✨ REST APIs & Scalable Backends  
