@@ -52,13 +52,13 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4n1me5h&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </p>
 
 ## 💻 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4n1me5h&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 ## 📊 GitHub Stats
