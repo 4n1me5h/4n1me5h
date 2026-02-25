@@ -55,10 +55,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=4n1me5h&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </p>
 
-## 📊 GitHub Contribution Graph
+## 🚀 Profile Summary
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/409BAF/4n1me5h" />
+  <img src="https://komarev.com/ghpvc/?username=4n1me5h&color=blueviolet&style=for-the-badge" />
 </p>
 
 ## 📊 GitHub Stats
