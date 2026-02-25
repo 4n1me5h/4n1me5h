@@ -55,10 +55,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=4n1me5h&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </p>
 
-## 💻 Top Languages
+## 📊 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4n1me5h&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://ghchart.rshah.org/409BAF/4n1me5h" />
 </p>
 
 ## 📊 GitHub Stats
