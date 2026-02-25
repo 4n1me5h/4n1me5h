@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Animesh Das</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN | JavaScript | Python | PHP | Real-Time Apps</h3>
+<h3 align="center">🧑🏻‍💻 Full-Stack Developer | MERN | JavaScript | Python | PHP | Real-Time Apps</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
@@ -20,7 +20,7 @@
 
 ## 🛠️ Tech Stack
 
-### 🚀 Languages
+### 🔠 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
@@ -40,7 +40,7 @@
 
 ---
 
-## 🔥 What I Love Building
+## ❤️💙 What I Love Building
 
 ✨ Real-Time Applications  
 ✨ REST APIs & Scalable Backends  
